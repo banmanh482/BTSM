@@ -19,10 +19,10 @@ class UserSeeder extends Seeder
         DB::table('users')->insert([
             'name' => 'Admin',
             'email' => 'admin@busticket.com',
-            'email_verified_at' => '2021-10-27 07:23:38',
+            'email_verified_at' => '2022-06-05 07:23:38',
             'password' => Hash::make('123456789'),
             'role' => 1,
-            'created_at' => '2021-10-28 00:43:47'
+            'created_at' => '2021-06-05 00:43:47'
         ]);
     }
 }

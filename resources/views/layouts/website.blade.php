@@ -39,13 +39,9 @@
             <div class="container px-lg-0 text-light py-1">
                 <div class="row d-flex align-items-center">
                     <div class="col-md-4 d-md-block d-none">
-                        <p class=" text_custom text-danger" style="margin-top: 17px;margin-left: -36px">SIÊU SALE 27.12 SẼ KẾT THÚC SAU</p>
+                        <p class=" text_custom text-danger" style="margin-top: 17px;margin-left: -36px"></p>
                     </div>
                     <div class="col-md-5 d-md-block d-none" style="margin-left: -126px;" id="count-down-time">
-                        <button type="button" class="btn btn-outline-secondary" id="button-countdown-days"></button>
-                        <button type="button" class="btn btn-outline-secondary" id="button-countdown-hours"></button>
-                        <button type="button" class="btn btn-outline-secondary" id="button-countdown-mins"></button>
-                        <button type="button" class="btn btn-outline-secondary" id="button-countdown-seconds"></button>
                     </div>
                     <div class="col-md-3" style="margin-left:126px">
                         <div class="d-flex justify-content-md-end justify-content-between">
@@ -143,8 +139,8 @@
                         </div>
                         <div class="col-lg-6">
                             <h4 class="mb-3 text-uppercase">Liên hệ</h4>
-                            <p class="text-uppercase text-sm text-gray-500">5 Lê Thánh Tông, Phan Chu Trinh, Hoàn Kiếm, Hà Nội</p>
-                            <p class="text-uppercase text-sm text-gray-500">Số điện thoại: <strong>024.3976.3585</strong></p>
+                            <p class="text-uppercase text-sm text-gray-500">154 Đình Thôn, Mỹ Đình 1, Nam Từ Liêm, Hà Nội</p>
+                            <p class="text-uppercase text-sm text-gray-500">Số điện thoại: <strong>097.885.5042</strong></p>
                             <p class="text-uppercase text-sm text-gray-500">Fax: <strong>024.3976.1996</strong></p>
                         </div>
                     </div>

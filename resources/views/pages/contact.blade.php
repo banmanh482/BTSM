@@ -28,12 +28,12 @@
             <div class="col-lg-4 block-icon-hover text-center">
                 <div class="icon icon-outlined icon-outlined-primary icon-thin mx-auto mb-3"><i class="fas fa-map-marker-alt"></i></div>
                 <h4 class="text-uppercase mb-3">Địa chỉ</h4>
-                <p class="text-gray-600 text-sm">5 Lê Thánh Tông, Phan Chu Trinh, Hoàn Kiếm, Hà Nội</strong></p>
+                <p class="text-gray-600 text-sm">154 Đình Thôn, Mỹ Đình 1, Nam Từ Liêm, Hà Nội</strong></p>
             </div>
             <div class="col-lg-4 block-icon-hover text-center">
                 <div class="icon icon-outlined icon-outlined-primary icon-thin mx-auto mb-3"><i class="fas fa-map-marker-alt"></i></div>
                 <h4 class="text-uppercase mb-3">Trung tâm hỗ trợ</h4>
-                <p class="text-gray-600 text-sm">Số điện thoại: <strong>024.3976.3585</strong></p>
+                <p class="text-gray-600 text-sm">Số điện thoại: <strong>097.885.5042</strong></p>
                 <p class="text-gray-600 text-sm">Fax: <strong>024.3976.1996</strong></p>
             </div>
             <div class="col-lg-4 block-icon-hover text-center">

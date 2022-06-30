@@ -280,11 +280,6 @@
         <div class="swiper-container customers-slider">
             <div class="swiper-wrapper">
                 <div class="swiper-slide h-auto"><img class="img-fluid img-grayscale d-block mx-auto" src="img/customer-1.png" alt="..." width="140"></div>
-                <div class="swiper-slide h-auto"><img class="img-fluid img-grayscale d-block mx-auto" src="img/customer-2.png" alt="..." width="140"></div>
-                <div class="swiper-slide h-auto"><img class="img-fluid img-grayscale d-block mx-auto" src="img/customer-3.png" alt="..." width="140"></div>
-                <div class="swiper-slide h-auto"><img class="img-fluid img-grayscale d-block mx-auto" src="img/customer-4.png" alt="..." width="140"></div>
-                <div class="swiper-slide h-auto"><img class="img-fluid img-grayscale d-block mx-auto" src="img/customer-5.png" alt="..." width="140"></div>
-                <div class="swiper-slide h-auto"><img class="img-fluid img-grayscale d-block mx-auto" src="img/customer-6.png" alt="..." width="140"></div>
             </div>
         </div>
     </div>
