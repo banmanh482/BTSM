@@ -18,8 +18,8 @@
 
 <body>
     <?php
-    $vnp_TmnCode = "7WK4YW9H";
-    $vnp_HashSecret = "TRTHAHLXBYSUNSZWLRXAPZBITPGRWLYX";
+    $vnp_TmnCode = "IGB2OE7C";
+    $vnp_HashSecret = "HSTWTVQIOTEUQVIOCISYKPYUVDTOPUFW";
     $vnp_Url = "https://sandbox.vnpayment.vn/paymentv2/vpcpay.html";
     $vnp_Returnurl = "http://localhost/vnpay_php/vnpay_return.php";
     $vnp_apiUrl = "http://sandbox.vnpayment.vn/merchant_webapi/merchant.html";

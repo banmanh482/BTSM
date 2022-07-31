@@ -2,7 +2,7 @@
 
 @section('content')
 <!-- HERO SLIDER SECTION-->
-<section class="text-white bg-cover bg-center overlay-dense" style="height:812px;background: url('https:////static.vexere.com/production/banners/330/__leaderboard-1920x922-.png') repeat">
+<section class="text-white bg-cover bg-center overlay-dense" style="height:812px;background: url('https:////static.vexere.com/production/banners/910/leaderboard.png') repeat">
     <div class="overlay-content py-5">
         <div class="container py-4">
             <!-- Hero slider-->
