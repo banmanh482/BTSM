@@ -151,7 +151,7 @@
                 <div class="container">
                     <div class="row align-items-cenrer gy-3 text-center">
                         <div class="col-md-6 text-md-start">
-                            <p class="mb-0 text-sm text-gray-500">&copy; 2021. <strong>Bus Ticket</strong> / Đã đăng ký Bản quyền. <b>Phiên bản</b> 1.0.0</p>
+                            <p class="mb-0 text-sm text-gray-500">&copy; 2022. <strong>Bus Ticket</strong> /. <b>Phiên bản</b> 1.0.0</p>
                         </div>
                         <div class="col-md-6 text text-md-end">
                             <p class="mb-0 text-sm text-gray-500">Thư viện được thiết kế bởi <a href="https://bootstrapious.com" target="_blank">Bootstrapious</a> &amp; <a href="https://hikershq.com/" target="_blank">HHQ</a> </p>

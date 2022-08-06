@@ -234,8 +234,7 @@
 
   <!-- Main Footer -->
   <footer class="main-footer">
-    <strong>Bản quyền &copy; 2021 <a href="/admin/dashboard/">Bus Ticket</a>.</strong>
-    Đã đăng ký bản quyền
+    <strong>Bản quyền &copy; 2022 <a href="/admin/dashboard/">Bus Ticket</a>.</strong>
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 1.0.0
     </div>
